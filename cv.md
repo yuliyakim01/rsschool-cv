@@ -1,5 +1,5 @@
 # Yuliya Kim
-![My image](https://iili.io/2zecQzN.png)
+![My image](https://iili.io/2zecQzN.pnd)
 ### Contact me 
 yuliyaskim@gmail.com || +992935705522 || www.linkedin.com/in/yuliyakim2001  
 **Website**: [Yuliya Creates](https://yuliyacreates.com/)
@@ -30,3 +30,41 @@ UX Developer
 * Web Application Development Project
   * Developed a full-stack web application for the World Wide Web Programming final project, demonstrating proficiency in both front-end (HTML, CSS) and back-end development (JavaScript, jQuery)
   * Integrated Spotify API for enhanced functionality and implemented real-time communication features with Socket.io
+
+### Experience
+* Quality Schools International Dushanbe  
+Sep. 2024 – Present  
+Data Analyst & Teacher Support  
+  * Improved data efficiency for the school’s lunch tracking system using Microsoft Excel and automated workflows
+  * Designed and managed after-school activities forms, streamlining student and teacher participation
+  * Trained in the SchoolsBuddies interface, ensuring seamless student and parent scheduling
+  * Presented to high school students about studying in the US/abroad, offering guidance and insights into international education
+  * Part of the Technology Strategic Planning Team, contributing to the school's technology vision, including the implications of AI
+  * Worked closely with the IT Manager to learn about hardware management and school interface systems, gaining hands-on experience in school technology infrastructure.
+
+* Housing Residential Education at University of Denver, Denver, CO   
+Jan. 2022 – Jun. 2024  
+Resident Assistant in Nelson & Nagel Hall 
+  * Addressed and resolved a variety of student issues from interpersonal conflicts to emergency response, showcasing adeptness in critical thinking, leadership and problem solving
+  * Fostered an inclusive community among residents from diverse backgrounds, enhancing the ability to work effectively in diverse teams and understand varied user needs in software development
+  * Developed exceptional communication skills through regular interactions with students, staff and administrators
+
+
+### Education
+**University of Denver**  
+_Bachelor of Science Computer Science & Psychology_  
+* **GPA**: 3.59
+* **Honors**: x4 Dean’s List, International Diversity Award Scholarship, Pioneer Scholarship, Denver Scholar Scholarship, Society of Women Engineers
+* **Relevant Courses**: Computer Organization, Data Structures & Algorithms, Human-Computer Interaction, Research Methods, World Wide Web Programming (I & II), Introduction to Systems Programming, Operating Systems, Mathematical Logic and Proof, Discrete Structures, Programming Languages, Front-End Development 
+
+### English  
+**IELTS Score**: 7  
+**Level**: Fluent  
+**Practice**:
+1. Attended English taught schools since 2nd grade where English is the language of instruction
+2. Graduated from Quality Schools International Dushanbe with a 3.8 GPA
+3. Graduated from University of Denver in June 2024
+4. Took and passed three Advanced Placement (AP) classes in high school:
+   * AP English Language and Composition: 5
+   * AP US History: 3
+   * AP Psychology: 3
