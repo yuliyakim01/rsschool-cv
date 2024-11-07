@@ -1,5 +1,5 @@
 # Yuliya Kim
-![My image](https://iili.io/2zecQzN.pnd)
+![My image](https://iili.io/2zecQzN.png)
 ### Contact me 
 yuliyaskim@gmail.com || +992935705522 || www.linkedin.com/in/yuliyakim2001  
 **Website**: [Yuliya Creates](https://yuliyacreates.com/)
