@@ -1,9 +1,70 @@
 body {
     background-color: bisque;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color:crimson;
+    color:black;
 }
+
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: darkcyan;
+    padding: 10px 0;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: inline-block;
+}
+
+section {
+    padding: 50px 20px;
+    margin-top: 60px;
+}
+#Contact {
+    background-color: blanchedalmond;
+}
+#Summary {
+    background-color: blanchedalmond;
+}
+#Skills {
+    background-color: blanchedalmond;
+}
+#Coding {
+    background-color: blanchedalmond;
+}
+#Project {
+    background-color: blanchedalmond;
+}
+#Education {
+    background-color: blanchedalmond;
+}
+
 
 h1 {
     color:cornflowerblue;
+    padding: 60px;
+    text-align: center;
+}
+
+pre {
+    background-color: antiquewhite;
+    padding: 10px;
+    border-radius: 5px;
+    overflow-x: auto;
+}
+
+code {
+    color: #d63384;
+    font-family: monospace;
+}
+
+.centered-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    text-align: center;
 }
