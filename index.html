@@ -1,21 +1,165 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
+    <meta name="viewort" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/rsschool-cv/style.css">
     <title>Yuliya's CV</title>
 </head>
+
 <body>
-    <h1> Yuliya Kim's CV </h1>
-    <main>
-        <h2>This is a level 2 header</h2>
-        <h2>Auto test styling</h2>
+    <!--- Header Section --->
+    <header>
+        <h1> Yuliya Kim </h1>
         <nav>
-            Nav Element
+            <a href="#Contact">Contact</a>
+            <a href="#Summary">Summary</a>
+            <a href="#Skills">Skills</a>
+            <a href="#Coding">Coding</a>
+            <a href="#Project">Project</a>
+            <a href="#Education">Education</a>
         </nav>
+    </header>
+   
+    <!--- Main Content Section --->
+    <main>
+        <section id="Contact">
+            <h2>Contact Me</h2>
+            <img src="https://iili.io/2zecQzN.png" alt="headshot" width="350" height="350">
+            <p>yuliyaskim@gmail.com +992935705522</p>
+            <a href="www.linkedin.com/in/yuliyakim2001"> LinkedIn </a>
+        </section>
+
+        <section id="Summary">
+            <h2>Summary</h2>
+            <div class="centered-container">
+                <p> I am a third culture kid. Born in Uzbekistan, where I only spoke Russian and belonged to the ethnically
+                    Korean
+                    minority. Growing up in Central Asia, I was a part of a vibrant international community, attending
+                    international
+                    schools and building connections with people from various diverse backgrounds. At 19, I moved to Denver,
+                    Colorado, alone and during the pandemic to pursue my education at the University of Denver and build a new
+                    life.
+        
+                    Adjusting to a new country, I faced the challenge of starting from scratch - creating social circles and
+                    navigating a completely new culture. This university experience not only strengthened my resilience and
+                    adaptiveness, but also ignited my passion for activism, sustainability, and social equity.
+        
+                    I recently graduated with a Bachelor of Science in Computer Science and Psychology from the University of
+                    Denver. My academic journey provided me with a unique intersection of skills in technology and human
+                    behavior,
+                    focusing on user-centered design and specializing in front-end development with proficiency in HTML, CSS,
+                    and
+                    JavaScript along with programming proficiency in Java and C/C++.
+        
+                    My travels and international upbringing have instilled in me a deep appreciation for sustainability and a
+                    commitment to giving back to my community. I am passionate about using technology to drive social change and
+                    ensure ethical and equitable AI. My goal is to use my skills to create inclusive digital solutions that
+                    benefit
+                    diverse communities and support sustainability initiatives. I am dedicated to contributing to social justice
+                    causes and supporting my family and community back home.</p>
+            </div>
+        </section>
+
+        <section id="Skills">
+            <h2>Skills</h2>
+            <div class="centered-container">
+                <p>
+                <ul>
+                    <li>Hard Skills: </li>
+        
+                    Java, C/C++, HTML, CSS, JavaScript, TypeScript Haskell, MATLAB, React, Docker, LaTeX, Git
+        
+                    <li>Languages: Russian (fluent), English (fluent)</li>
+                </ul>
+                </p>
+            </div>
+        </section>
+
+        <section id="Coding">
+            <h2>Coding Example</h2>
+            <pre>
+                <code>
+                public class nthPowerAlgs {
+                    public static double bruteForce(int x, int n) {
+                        double result = 1;
+                        for(int i=0; i < n; i++) {
+                            result *= x; 
+                        }
+                        return result;		
+                    }
+                    public static double decreaseAndConquer(int x, int n) {
+                        if (n == 0) {
+                            return 1;
+                        }
+                        double ans = decreaseAndConquer(x, n/2);
+                        if (n % 2 == 0) {
+                            return ans * ans;
+                        }
+                        else {
+                            return x * (ans * ans);
+                        }
+                    }
+                } </pre>
+            </code>
+        </section>
+
+        <section id="Project">
+            <h2>Project Example</h2>
+            <div class="centered-container">
+                <p>
+                    In my free time after college, I wanted to take on the challenge of coding my own personal website from
+                    scratch.
+                    I bought a domain name and used Netlify in order to deploy it. It's a work in progress,
+                    and will be a work in progress for a long time because I'm learning new ways to improve it every single day.
+                    I used HTML, Javascript, CSS in order to build my website.
+                </p>
+            </div>
+            <a href="https://yuliyacreates.com/"> Click here to checkout my personal website called YuliyaCreates! </a>
+        </section>
+        
+        <section id="Education">
+            <h2>Education & English Proficiency</h2>
+            <ul>
+                <li><b>University of Denver:</b> Bachelor of Science Computer Science & Psychology
+                    <ul>
+                        <li>GPA: 3.59</li>
+                        <li>Honors: x4 Deans List, International Diversity Award Scholarship,
+                            Pioneer Scholarship, Denver Scholar Scholarship, Society of
+                            Women Engineers</li>
+                        <li>Relevant Courses: Computer Organization, Data Structures & Algorithms, Human-Computer Interaction,
+                            Research Methods, World Wide Web Programming (I & II), Introduction to Systems Programming,
+                            Operating Systems,
+                            Mathematical Logic and Proof, Discrete Structures, Programming Languages, Front-End Development
+                        </li>
+                    </ul>
+                </li>
+                <li><b>English Proficiency:</b>
+                    <ul>
+                        <li>IELTS Score: 7 </li>
+                        <li>Level: Fluent </li>
+                        <li>Practice:
+                            <ol>
+                                <li>Attended English taught schools since 2nd grade where English is the language of instruction
+                                </li>
+                                <li> Graduated from Quality Schools International Dushanbe with a 3.8 GPA </li>
+                                <li> Took and passed three Advanced Placement (AP) classes in high school: </li>
+                                AP English Language and Composition: 5, AP US History: 3, AP Psychology: 3
+                    </ul>
+                </li>
+            </ul>
+        </section>
     </main>
+    
+    <!--- Footer Section --->
     <footer>
-        2024
+        <a href="https://github.com/yuliyakim01/rsschool-cv"> Link to My GitHub </a>
+        <p>November 2024</p>
+        <a href="https://rs.school/courses/javascript">
+        <img src="rs-school-logo.svg" alt="RS School logo"  width="100" height="100">
     </footer>
+
 </body>
+
 </html>
